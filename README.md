@@ -94,7 +94,9 @@ No subas `.env.local` ni claves privadas al repositorio.
 
 El video original de `Downloads` está incluido únicamente como documentación del proyecto. No se utiliza en la aplicación ni se copia a `src/` o a `public/`.
 
-https://github.com/MrDylanDev/Pet-Store-Hero-Section/releases/download/v0.1.0-assets/video.mp4
+![Demo de la aplicación](./docs/assets/demo.gif)
+
+> 📹 **Video completo:** Podés ver o descargar la grabación original en alta definición desde [`docs/assets/video.mp4`](./docs/assets/video.mp4).
 
 ## Desarrollo
 
