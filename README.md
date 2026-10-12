@@ -1,6 +1,11 @@
 # Patitas — Hero de tienda para mascotas
 
 Patitas es una interfaz responsive de una tienda de productos premium para mascotas. El proyecto está construido con React, TypeScript, Vite y Tailwind CSS, y se centra en una experiencia de compra visual con hero adaptable, catálogo, favoritos, carrito y ventanas modales.
+## Demo
+
+![Demo de la aplicación](./docs/assets/demo.gif)
+
+> 📹 **Video completo:** Podés [descargar el video original en alta definición (MP4)](https://github.com/MrDylanDev/Pet-Store-Hero-Section/releases/download/v0.1.0-assets/video.mp4).
 
 ## Inicio rápido
 
@@ -90,13 +95,6 @@ cp .env.example .env.local
 
 No subas `.env.local` ni claves privadas al repositorio.
 
-## Video de referencia
-
-El video original de `Downloads` está incluido únicamente como documentación del proyecto. No se utiliza en la aplicación ni se copia a `src/` o a `public/`.
-
-![Demo de la aplicación](./docs/assets/demo.gif)
-
-> 📹 **Video completo:** Podés ver o descargar la grabación original en alta definición desde [`docs/assets/video.mp4`](./docs/assets/video.mp4).
 
 ## Desarrollo
 
