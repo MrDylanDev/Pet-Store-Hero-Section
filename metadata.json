@@ -1,0 +1,6 @@
+{
+  "name": "CozyPaws - Pet Store Hero Section",
+  "description": "High-fidelity CozyPaws pet store hero section featuring responsive breakpoints, fluid typography, playful animations, and interactive preview modals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
