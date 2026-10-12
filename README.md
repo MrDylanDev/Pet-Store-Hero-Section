@@ -5,7 +5,7 @@ Patitas es una interfaz responsive de una tienda de productos premium para masco
 
 ![Demo de la aplicación](./docs/assets/demo.gif)
 
-> 📹 **Video completo:** Podés [descargar el video original en alta definición (MP4)](https://github.com/MrDylanDev/Pet-Store-Hero-Section/releases/download/v0.1.0-assets/video.mp4).
+> **Video completo:** Podés [descargar el video original en alta definición (MP4)](https://github.com/MrDylanDev/Pet-Store-Hero-Section/releases/download/v0.1.0-assets/video.mp4).
 
 ## Inicio rápido
 
