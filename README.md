@@ -94,9 +94,7 @@ No subas `.env.local` ni claves privadas al repositorio.
 
 El video original de `Downloads` está incluido únicamente como documentación del proyecto. No se utiliza en la aplicación ni se copia a `src/` o a `public/`.
 
-<video src="./docs/assets/video.mp4" controls controlsList="nodownload" width="360">
-  Tu navegador no admite la reproducción de video HTML5.
-</video>
+https://github.com/MrDylanDev/Pet-Store-Hero-Section/releases/download/v0.1.0-assets/video.mp4
 
 ## Desarrollo
 
