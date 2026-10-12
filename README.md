@@ -94,11 +94,9 @@ No subas `.env.local` ni claves privadas al repositorio.
 
 El video original de `Downloads` está incluido únicamente como documentación del proyecto. No se utiliza en la aplicación ni se copia a `src/` o a `public/`.
 
-<video src="./docs/assets/video.mp4" controls width="360">
+<video src="./docs/assets/video.mp4" controls controlsList="nodownload" width="360">
   Tu navegador no admite la reproducción de video HTML5.
 </video>
-
-[Descargar el video de referencia](./docs/assets/video.mp4)
 
 ## Desarrollo
 
